@@ -11,6 +11,13 @@ One Click install Nocturnal by using the link below!
 
 http://www.tumblr.com/theme/36579
 
+
+Customize Nocturnal - (Images) 
+
+![Alt Text] (http://static.tumblr.com/dsnh5zg/njCmdfd9a/doc_5.png)
+![Alt Text] (http://static.tumblr.com/dsnh5zg/lrwmdfd3z/doc_4.png)
+
+
 Editing the CSS 
 
 Please use the {Custom CSS} area within the Customize theme's dashboard.
@@ -21,3 +28,4 @@ CSS code using the YUI CSS compressor to keep the theme under 65kb. If you don't
 and press "Save" and "Update-Preview".
 
 http://refresh-sf.com/yui/
+
