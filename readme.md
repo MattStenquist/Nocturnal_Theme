@@ -1,4 +1,4 @@
-![Alt text] (nocturnal_theme/images/nocturnal_image.png "Nocturnal Theme")
+![Alt Text] (https://raw.github.com/MattStenquist/Nocturnal_Theme/master/images/nocturnal_image.png)
 
 Nocturnal is a responsive free Tumblr theme that comes with a built in theme editor, allowing you to create hundreds of combinations to make that perfect theme.
 
