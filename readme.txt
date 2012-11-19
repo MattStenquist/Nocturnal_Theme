@@ -5,8 +5,6 @@ http://nocturnaltheme.tumblr.com/
 
 View The Documentation on Nocturnal's Demo Please for a futher analysis and more detailed information on what Nocturnal can do!
 
-:3 
-
 One Click install Nocturnal by using the link below!
 
 http://www.tumblr.com/theme/36579
