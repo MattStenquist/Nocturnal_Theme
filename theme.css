@@ -10,13 +10,13 @@
 */	
 	
      body {
-                    background:#f7f7f7 url('{image:Background}') repeat center top;
-                    background-color:{color:Site Background};
-                    margin:0 auto;
-                    padding:0;
-                    border-top:5px solid;
-                    border-color:{color:Header Border};
-            }
+           	background:#f7f7f7 url('{image:Background}') repeat center top;
+           	background-color:{color:Site Background};
+            margin:0 auto;
+            padding:0;
+            border-top:5px solid;
+            border-color:{color:Header Border};
+     }
             /*-- BASE STYLES --*/
             * p,ol,ul,li,q,blockquote,pre {
                 font-family: {font:Posts Text};
