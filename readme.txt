@@ -8,3 +8,14 @@ View The Documentation on Nocturnal's Demo Please for a futher analysis and more
 One Click install Nocturnal by using the link below!
 
 http://www.tumblr.com/theme/36579
+
+Editing the CSS 
+
+Please use the {Custom CSS} area within the Customize theme's dashboard.
+
+If you want to get your hand nice and dirty and change the site up manually without using a CSS override, please edit the 
+theme.css file (non-compressed) and make the appropriate changes inside. Afterwards, replace the CSS in the .html with your
+CSS code using the YUI CSS compressor to keep the theme under 65kb. If you don't need compression just paste in the CSS
+and press "Save" and "Update-Preview".
+
+http://refresh-sf.com/yui/
