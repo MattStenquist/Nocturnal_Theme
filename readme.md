@@ -29,3 +29,6 @@ and press "Save" and "Update-Preview".
 
 http://refresh-sf.com/yui/
 
+* If you're wondering why the code's identation is off, it's because of Tumblr's built in editor not allowing you to 
+build outside of it. The code was then modified in CODA II, but the way Tumblr's code editor manages code had made it
+extremly difficult to keep the code indetation "normalized". -Sorry. 
