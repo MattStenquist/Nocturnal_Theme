@@ -103,7 +103,7 @@
         <nav id="menu" role="navigation">
             <ol>
               <li><a href="/">Main</a></li>
-              <li><a href="/ask">Ask</a>
+              {block:AskEnabled}<li><a href="/ask">Ask</a></li>{block:AskEnabled}
               <li><a href="/archive">Archive</a></li>
               <li>{block:ifCustomLinkOneTitle}<a href="{text:Custom Link One}">{text:Custom Link One Title}</a>{/block:ifCustomLinkOneTitle}</li>
               <li>{block:ifCustomLinkTwoTitle}<a href="{text:Custom Link Two}">{text:Custom Link Two Title}</a>{/block:ifCustomLinkTwoTitle}</li>
